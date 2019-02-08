@@ -1,4 +1,6 @@
 GeoFilza for iOS 12.0 to 12.1.2 (A9 -> A11)
+A12 IS NOT CONFIRMED WORKING! NEEDS PROPER TESTING!
+
 by GeoSn0w (@FCE365)
 
 This is pretty much Filza, the File Manager from Cydia. I modified it so that it executes voucher_swap exploit by Brandon Azad on iOS 12.0 up to 12.1.2 and escapes the Sandbox / Gets ROOT so that you can edit files with it and stuff.
