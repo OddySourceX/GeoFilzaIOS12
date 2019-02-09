@@ -11,7 +11,7 @@ This is pretty much Filza, the File Manager from Cydia. I modified it so that it
 
 **USE THE IPA NOT A SIGNING SERVICE, IT CRASHES IF YOU GET IT FROM IGNITION, NO IDEA WHY**
 
-**A12 DEVICES ARE NOT SUPPORTED, NEITHER ARE 4K ONES LIKE iPHONE 5S and 6**
+**4K DEVICES LIKE iPHONE 5S and 6 ARE NOT SUPPORTED!**
 
 It can write to /var/ and /tmp and it can read from anywhere. Enjoy
 
